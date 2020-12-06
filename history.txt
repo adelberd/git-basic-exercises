@@ -1,0 +1,141 @@
+    1  git config --global user.name "Mothusi Adelberd"
+    2  git config --global user.email "username@git.com"
+    3  git_practice$ git init
+    4  git_practice git init
+    5  git init
+    6  git_practice
+    7  git init
+    8  git_practice$
+    9  git_practice$ git init
+   10  git status
+   11  git config --global user.name "Mothusi Adelberd"
+   12  git config --global user.email "username@git.com"
+   13  git_practice$ git init
+   14  git_practice
+   15  /git_practice
+   16  '/c/Users/Mothusi Adelberd/Desktop/python_work/git_practice'
+   17  git_practice$ git init
+   18  git_practice
+   19  git init
+   20  git_practice git init
+   21  /c/Users/Mothusi Adelberd/Desktop/python_work/git_practice
+   22  '/c/Users/Mothusi Adelberd/Desktop/python_work/git_practice'
+   23  git init
+   24  git status
+   25  '/c/Users/Mothusi Adelberd/Desktop/python_work/git_practice'
+   26  '/c/Users/Mothusi Adelberd/Desktop/python_work/git_practice'$git init
+   27  cd python_work/git_practice
+   28  pwd
+   29  ls
+   30  ls /
+   31  mkdir -p outer/inner
+   32  pwd]
+   33  pwd
+   34  cd outer
+   35  cd inner
+   36  cd /
+   37  cd home
+   38  Desktop
+   39  cd Desktop
+   40  cd -/Desktop
+   41  cd /Desktop
+   42  mkdir umuzi
+   43  git init
+   44  touch markdown_file.md
+   45  cd UMUZI
+   46  touch markdown_file.md
+   47  git init
+   48  touch markdown_file.md
+   49  git status
+   50  git add markdown_file.md
+   51  git status
+   52  git commit -m "Improved markdown file"
+   53  git checkout -b markdown_2
+   54  git branch
+   55  git checkout master
+   56  git remote add origin 
+   57  git push -u origin master
+   58  git remote add origin 
+   59  git push origin markdown_2
+   60  ls -l -t -r
+   61  ls -lh
+   62  man ls
+   63  man cd
+   64  cd ~
+   65  man ls
+   66  cd ~/Desktop/Learning_unix/Outer_directory/
+   67  rmdir Inner_directory
+   68  cd ..
+   69  rmdir Outer_directory
+   70  ls
+   71  cd ~
+   72  cd /Desktop
+   73  cd ../Desktop
+   74  cd ../
+   75  cd ~
+   76  cd ~/
+   77  cd ~/Desktop
+   78  cd Learning_
+   79  cd Learning_unix/
+   80  cd ../
+   81  git update
+   82  cd /Desktop
+   83  cd Desktop
+   84  mkdir git-basic-exercises
+   85  cd git-basic-exercises
+   86  git  config --global --list
+   87  ref: refs/heads/main
+   88  mkdir .git-template
+   89  git config --global --list
+   90  mkdir ~/.git-template
+   91  cd ~
+   92  ls
+   93  ls -a
+   94  ref: refs/heads/main
+   95  touch HEAD
+   96  nano HEAD
+   97  mkdir test_project && cd test_project && git init
+   98  git status
+   99  cd git-basic-exercises
+  100  git init
+  101  touch README.md
+  102  git log
+  103  git status
+  104  git add README.md
+  105  git status
+  106  git commit -m "initial commit"
+  107  git log
+  108  nano README.md
+  109  cat README.md 
+  110  git status
+  111  git add README.md 
+  112  git status
+  113  git commit -m "second commit"
+  114  nano README.md 
+  115  git add README.md 
+  116  git status
+  117  git commit -m "third commit"
+  118  cat README.md 
+  119  git log
+  120  git checkout 966a4abeb3c12fa8b48798c00994df193da11db4
+  121  cat README.md 
+  122  git checkout main
+  123  cat README.md 
+  124  git branch
+  125  git checkout -b milkshake-flavours
+  126  git branch
+  127  git checkout main
+  128  git checkout milkshake-flavours
+  129  nano milkshakes.md
+  130  git status
+  131  git add milkshake.md
+  132  git add milkshakes.md
+  133  git status 
+  134  git commit -m "added initial flavours"
+  135  git log
+  136  git checkout main
+  137  git status 
+  138  git log
+  139  git checkout -b history
+  140  git branch
+  141  history > history.txt
